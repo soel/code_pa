@@ -1,0 +1,7 @@
+:msg, contains, "bytes leftover after parsing attributes."~
+
+:msg, contains, "bytes leftover after parsing attributes." ~
+
+12 6\n4 6\n4 8\n4 10\n4 12\n4 2\n4 4
+
+6 3\n3 2\n1 6\n2 5
